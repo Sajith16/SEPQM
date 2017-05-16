@@ -8,3 +8,4 @@
 8. What is Kiuwan for? :- https://www.kiuwan.com/docs/pages/viewpage.action?pageId=12189823
 9. Who is Kiuwan for? :- https://www.kiuwan.com/docs/pages/viewpage.action?pageId=12189824
 10.Why Kiuwan :- https://www.kiuwan.com/docs/pages/viewpage.action?pageId=12189825
+11.Comparison of top tools :- http://thinkapps.com/blog/development/technical-debt-computation-top-tools/
